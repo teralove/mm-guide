@@ -13,6 +13,9 @@ Available messages:
 * **Lie -> Stay inside**
 
 
+### Notes:
+* No call out for the balloon/bomb mechanic
+
 ### Chat commands:
 * **!mm** - Toggles the module off/on (On by default)
 * **!mm.party** - Toggles sending messages to party/yourself (only yourself is default)
