@@ -1,3 +1,7 @@
-int32 unk1 # id?
-int32 unk2 # eventType? 1 = start, 3 = continuation, 5 = end
+offset unk1
+offset message
+
+int32 type # 1 = start, 3 = continuation, 5 = end
 int32 value # gage percent
+string unk1
+string message
