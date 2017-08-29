@@ -1,5 +1,3 @@
-**Requires [S_DUNGEON_EVENT_GAGE](https://github.com/teralove/mm-guide/blob/master/S_DUNGEON_EVENT_GAGE.1.def), put it in tera-proxy/node_modules/tera-data/protocol**
-
 # MM Guide (Manglemire)
 Calls out truth/lie mechanics during the fight.
 
